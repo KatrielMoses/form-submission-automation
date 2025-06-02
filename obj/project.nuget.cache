@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RT9C4xo63GY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Katriel Delzyn Moses\\CloudQAAutomation\\CloudQAAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katriel Delzyn Moses\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\Katriel Delzyn Moses\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.5500\\selenium.webdriver.chromedriver.137.0.7151.5500.nupkg.sha512"
+  ],
+  "logs": []
+}
